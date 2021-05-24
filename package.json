@@ -1,0 +1,11 @@
+{
+  "name": "blog",
+  "version": "1",
+  "main": "index.js",
+  "repository": "https://github.com/Cibo444/blog",
+  "author": "Cibo444",
+  "license": "MIT",
+  "dependencies": {
+    "vuepress": "^1.8.2"
+  }
+}
